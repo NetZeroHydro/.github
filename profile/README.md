@@ -17,10 +17,11 @@ This project will deliver three main deliverables.
 - An Interactive web viewer (ShinyAPP) that enables users to visualize results of deliverable 2. It will also allow additional filtering and analyses, e.g., analyzing how many dams in a country or within a range of installed capacity fall into a sustainability category.
 
 ## Organization Structure
-connectivity: Code and functions for dam network geospatial analysis, including analyzing future hydropower projects in relation to current dam locations and calculating connectivity.
-fatal-flaws: Code for preparing ecological data to assess environmental impact in conjunction with connectivity outputs.
-MCDA-model: Code and function for evaluating future dams via multi-criteria decision analysis.
-shiny-app: Code to visualize future hydropower impact on an interactive shiny dashboard.
+The repositories in this organizations include: 
+-  **connectivity:** Code and functions for dam network geospatial analysis, including analyzing future hydropower projects in relation to current dam locations and calculating connectivity.
+-  **fatal-flaws:** Code for preparing ecological data to assess environmental impact in conjunction with connectivity outputs.
+-  **MCDA-model:** Code and function for evaluating future dams via multi-criteria decision analysis.
+-  **shiny-app:** Code to visualize future hydropower impact on an interactive shiny dashboard.
 
 ## Data Sources
 [Global Dam Watch](https://www.globaldamwatch.org/database)
