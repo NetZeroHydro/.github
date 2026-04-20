@@ -35,18 +35,22 @@ shiny-app: Code to visualize future hydropower impact on an interactive shiny da
 
 [Protected Planet](https://www.protectedplanet.net/en)
 
-## Members
-[Megan Hessel](https://meganhessel.github.io/)
+## Team Members
+Megan Hessel | [Website](https://meganhessel.github.io/) | [LinkedIn]() | [GitHub]()
 
-[Lucian Scher](lucianbluescher.com)
+Lucian Scher | [Website](lucianbluescher.com) | [LinkedIn]() | [GitHub]()
 
-[Aakriti Poudel](https://aakriti-poudel-chhetri.github.io/)
+Aakriti Poudel | [Website](https://aakriti-poudel-chhetri.github.io/) | [LinkedIn]() | [GitHub]()
 
-[Leela Dixit ](https://lsdixit.github.io/)
+Leela Dixit | [Website](https://lsdixit.github.io/) | [LinkedIn]() | [GitHub]()
 
-Dr. Rafael Schmitt, Assistant Professor UCSB Department of Environmental Studies
+## Advisor and Client
+Dr. Rafael Schmitt, Assistant Professor UCSB Department of Environmental Studies 
+
 Dr. Jeff Opperman, Global Freshwater Lead Scientist, World Wildlife Fund Global Science Team
 
-This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at [Bren School of Environmental Science and Management](https://bren.ucsb.edu), University of California, Santa Barbara”
+---
 
-For more information, see the [MEDS Capstone Project Website](https://bren.ucsb.edu/projects/hydropowers-low-hanging-fruits-leveraging-least-impact-dams-power-net-zero-future)
+*This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at [Bren School of Environmental Science and Management](https://bren.ucsb.edu), University of California, Santa Barbara”*
+
+*For more information, see the [MEDS Capstone Project Website](https://bren.ucsb.edu/projects/hydropowers-low-hanging-fruits-leveraging-least-impact-dams-power-net-zero-future)*
