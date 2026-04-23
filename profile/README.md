@@ -37,7 +37,7 @@ The repositories in this organizations include:
 [Protected Planet](https://www.protectedplanet.net/en)
 
 ## Team Members
-Megan Hessel | [Website](https://meganhessel.github.io/) | [LinkedIn]() | [GitHub]()
+Megan Hessel | [Website](https://meganhessel.github.io/) | [LinkedIn](www.linkedin.com/in/meganhessel) | [GitHub](https://github.com/meganhessel)
 
 Lucian Scher | [Website](lucianbluescher.com) | [LinkedIn]() | [GitHub]()
 
