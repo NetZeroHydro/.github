@@ -23,18 +23,20 @@ The repositories in this organizations include:
 -  **MCDA-model:** Code and function for evaluating future dams via multi-criteria decision analysis.
 -  **shiny-app:** Code to visualize future hydropower impact on an interactive shiny dashboard.
 
+How to operate within this organization: The `connecivity` repository houses the main assessment where we catagorize future dams on their connectivity to current hydropower projects. 
+
 ## Data Sources
-[Global Dam Watch](https://www.globaldamwatch.org/database)
+[Global Dam Watch](https://www.globaldamwatch.org/database): Comprehensive database of existing hydropower infrastructure worldwide.
 
-[Future Hydropower Reservoirs and Dams](https://www.globaldamwatch.org/fhred)
+[Future Hydropower Reservoirs and Dams](https://www.globaldamwatch.org/fhred): Planned and proposed hydropower projects with installed capacity ≥ 1 MW
 
-[Free Flowing Rivers](https://www.nature.com/articles/s41586-019-1111-9)
+[Free Flowing Rivers](https://www.nature.com/articles/s41586-019-1111-9): Classification of free-flowing and at-risk rivers derived from the HydroSHEDS network.
 
-[HydroRIVERS](https://www.hydrosheds.org/products/hydrorivers)
+[HydroRIVERS](https://www.hydrosheds.org/products/hydrorivers): Vectorized global river network at ~500 m resolution with hydrological attributes.
 
-[HydroBASINS](https://www.hydrosheds.org/products/hydrobasins)
+[HydroBASINS](https://www.hydrosheds.org/products/hydrobasins): Vectorized polygon layers of global sub-basin boundaries. 
 
-[Protected Planet](https://www.protectedplanet.net/en)
+[Protected Planet](https://www.protectedplanet.net/en): Global database of terrestrial and marine protected areas and OECMs.
 
 ## Team Members
 Megan Hessel | [Website](https://meganhessel.github.io/) | [LinkedIn](https://www.linkedin.com/in/meganhessel) | [GitHub](https://github.com/meganhessel)
