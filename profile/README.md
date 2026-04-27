@@ -41,7 +41,7 @@ Megan Hessel | [Website](https://meganhessel.github.io/) | [LinkedIn](https://ww
 
 Lucian Scher | [Website](lucianbluescher.com) | [LinkedIn]() | [GitHub]()
 
-Aakriti Poudel | [Website](https://aakriti-poudel-chhetri.github.io/) | [LinkedIn]() | [GitHub]()
+Aakriti Poudel | [Website](https://aakriti-poudel-chhetri.github.io/) | [LinkedIn](https://www.linkedin.com/in/aakritipoudel/) | [GitHub](https://github.com/aakriti-poudel-chhetri)
 
 Leela Dixit | [Website](https://lsdixit.github.io/) | [LinkedIn]() | [GitHub]()
 
