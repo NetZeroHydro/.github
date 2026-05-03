@@ -26,17 +26,17 @@ The repositories in this organizations include:
 How to operate within this organization: The `connecivity` repository houses the main assessment where we catagorize future dams on their connectivity to current hydropower projects. 
 
 ## Data Sources
-[Global Dam Watch](https://www.globaldamwatch.org/database): Comprehensive database of existing hydropower infrastructure worldwide.
+[Global Dam Watch](https://www.globaldamwatch.org/database): Global Dam Watch is a comprehensive database of existing dams and reservoirs around the world. It brings together multiple historical dam datasets into a single, standardized resource, covering dam locations, physical characteristics, and operational status. For this project, GDW serves as the baseline inventory of current hydropower infrastructure, allowing us to understand where dams already exist before evaluating where new ones are planned.
 
-[Future Hydropower Reservoirs and Dams](https://www.globaldamwatch.org/fhred): Planned and proposed hydropower projects with installed capacity ≥ 1 MW
+[Future Hydropower Reservoirs and Dams](https://www.globaldamwatch.org/fhred): FHReD contains data on planned and future hydropower projects with a capacity of at least 1 MW. The database holds over 3,700 dam records with information on location, hydropower capacity, and proposed construction timelines. This dataset is central to our project because it identifies the future dam sites we will evaluate for environmental suitability.
 
-[Free Flowing Rivers](https://www.nature.com/articles/s41586-019-1111-9): Classification of free-flowing and at-risk rivers derived from the HydroSHEDS network.
+[Free Flowing Rivers](https://www.nature.com/articles/s41586-019-1111-9): The free-flowing rivers dataset classifies rivers around the world based on how connected and uninterrupted their flow remains from source to sea. It was derived from the HydroSHEDS river network and assigns each river segment a connectivity status ranging from fully free flowing to severely disrupted. We use this dataset to flag proposed dam sites that would fragment rivers currently identified as free-flowing, which represent some of the most ecologically sensitive locations for new infrastructure.
 
-[HydroRIVERS](https://www.hydrosheds.org/products/hydrorivers): Vectorized global river network at ~500 m resolution with hydrological attributes.
+[HydroRIVERS](https://www.hydrosheds.org/products/hydrorivers): HydroRIVERS is a global river network dataset that maps waterways at a resolution of approximately 500 meters. Each river segment includes hydrological attributes such as flow volume and upstream drainage area, making it useful for understanding the scale and connectivity of river systems. In this project, HydroRIVERS provides the spatial river layer for overlaying dam locations and assessing their position within the broader river network.
 
-[HydroBASINS](https://www.hydrosheds.org/products/hydrobasins): Vectorized polygon layers of global sub-basin boundaries. 
+[HydroBASINS](https://www.hydrosheds.org/products/hydrobasins): HydroBASINS divides the world's land surface into a hierarchical set of sub-basin units, represented as polygon boundaries. Each sub-basin captures the area of land that drains into a common outlet, and the dataset is structured across multiple scales, from large continental basins down to small local catchments. We use HydroBASINS to organize our analysis by watershed, enabling comparisons of dam density and cumulative impacts within shared drainage areas.
 
-[Protected Planet](https://www.protectedplanet.net/en): Global database of terrestrial and marine protected areas and OECMs.
+[Protected Planet](https://www.protectedplanet.net/en): Protected Planet is the global database of protected areas and Other Effective Area-based Conservation Measures (OECMs), jointly maintained by UNEP and IUCN through UNEP-WCMC. It includes spatial boundaries and key attributes such as protection category, governance type, and year of establishment, covering both terrestrial and marine areas recognized at national and international levels. We use this dataset to identify locations where proposed dams would overlap with legally protected or conservation-designated land, which we treat as critical conflict zones in our suitability assessment.
 
 ## Team Members
 Megan Hessel | [Website](https://meganhessel.github.io/) | [LinkedIn](https://www.linkedin.com/in/meganhessel) | [GitHub](https://github.com/meganhessel)
