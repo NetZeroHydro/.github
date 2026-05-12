@@ -25,6 +25,15 @@ The repositories in this organizations include:
 
 How to operate within this organization: The `connecivity` repository houses the main assessment where we catagorize future dams on their connectivity to current hydropower projects. 
 
+## Where to Start 
+If you are interested in the final assessment, please visit our interactive dashboard (will be linked later). 
+
+If you are interested in using or reproducing our workflow, visit... 
+1.  The connectivity repository to understand how we classify connectivity
+2.  The fatal flaw repository if you want to manipulate and add raster data into the dam dataset
+3.  The MCDA repository to apply a score to future dams based on your defined critiera and weights
+
+
 ## Data Sources
 [Global Dam Watch](https://www.globaldamwatch.org/database): Global Dam Watch is a comprehensive database of existing dams and reservoirs around the world. It brings together multiple historical dam datasets into a single, standardized resource, covering dam locations, physical characteristics, and operational status. For this project, GDW serves as the baseline inventory of current hydropower infrastructure, allowing us to understand where dams already exist before evaluating where new ones are planned.
 
