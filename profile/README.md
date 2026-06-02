@@ -30,7 +30,7 @@ If you are interested in the final assessment, please visit our interactive dash
 
 If you are interested in using or reproducing our workflow, visit... 
 1.  The connectivity repository to understand how we classify connectivity
-2.  The fatal flaw repository if you want to manipulate and add raster data into the dam dataset
+2.  The fatal flaw repository if you want to manipulate and add polygon data into the dam dataset
 3.  The MCDA repository to apply a score to future dams based on your defined critiera and weights
 
 
@@ -50,11 +50,11 @@ If you are interested in using or reproducing our workflow, visit...
 ## Team Members
 Megan Hessel | [Website](https://meganhessel.github.io/) | [LinkedIn](https://www.linkedin.com/in/meganhessel) | [GitHub](https://github.com/meganhessel)
 
-Lucian Scher | [Website](lucianbluescher.com) | [LinkedIn]() | [GitHub]()
+Lucian Scher | [Website](lucianbluescher.com) | [LinkedIn](https://www.linkedin.com/in/lucianbluescher/) | [GitHub](https://github.com/lucianbluescher)
 
 Aakriti Poudel | [Website](https://aakriti-poudel-chhetri.github.io/) | [LinkedIn](https://www.linkedin.com/in/aakritipoudel/) | [GitHub](https://github.com/aakriti-poudel-chhetri)
 
-Leela Dixit | [Website](https://lsdixit.github.io/) | [LinkedIn]() | [GitHub]()
+Leela Dixit | [Website](https://lsdixit.github.io/) | [LinkedIn](https://www.linkedin.com/in/leeladixit/) | [GitHub](https://github.com/lsdixit)
 
 ## Advisor and Client
 Dr. Rafael Schmitt, Assistant Professor UCSB Department of Environmental Studies 
